@@ -1,6 +1,5 @@
 ---
-title: "
-explaining my skills"
+title: "Explaining my skills"
 date: 2021-08-05
 ---
 
